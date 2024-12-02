@@ -1,0 +1,17 @@
+{
+  "name": "nikola-johnny/phpmvc-framework",
+  "description": "education",
+  "authors": [
+    {
+      "name": "Nikola Johnny",
+      "email": "aleksicnikola46@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {
+  }
+}
